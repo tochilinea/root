@@ -1,0 +1,17 @@
+До сих пор думаешь что CTO - это просто? 
+
+CTO
+ |
+ +-- Infrastructure & Platform [Platform Team]
+ |      |
+ |      +-- Architecture  -> System Architect, Infrastructure Architect
+ |      +-- Engineering & Operations [L2/L3] -> SysAdmin, Network, SRE, DevOps / Platform Engineer
+ |
+ +-- Service Management [L1]
+ |      |
+ |      +-- Service Desk  -> Service Desk Engineer
+ |
+ +-- Software Development [R&D]
+ |      |
+ |      +-- Backend / Frontend / QA
+
